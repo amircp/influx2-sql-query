@@ -161,7 +161,6 @@ for symbol in symbols:
 
 - The current implementation is designed for simple query operations
 - Complex queries with multiple result sets might require additional handling
-- The client assumes successful API responses have a specific structure
 
 ## License
 
