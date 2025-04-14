@@ -16,7 +16,7 @@ This package provides a simple client to connect to InfluxDB, execute InfluxQL q
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.8+
 - httpx
 - pandas
 
