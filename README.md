@@ -29,11 +29,9 @@ pip install -r requirements.txt
 
 ## Enabling the InfluxQL API in InfluxDB
 
-Before using this client, you need to ensure that the InfluxQL API is enabled in your InfluxDB instance:
-Please follow this guide https://docs.influxdata.com/influxdb/v2/query-data/influxql/
+Before using this client, you need to ensure that the InfluxQL API is enabled in your InfluxDB instance. Please follow this guide: https://docs.influxdata.com/influxdb/v2/query-data/influxql/
 
-
-or try running this setting in Docker image:
+Alternatively, try running the following setting in your Docker image:
 
 1. **Configuration File Method**:
    Edit your influxdb configuration file (usually `influxdb.conf`) and ensure the following settings:
